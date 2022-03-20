@@ -13,8 +13,8 @@
 ---
 - Python
 - Linux
-- git
+- <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
+
 - github
 ---
 
-![Python](https://github.com/maxheyn/maxheyn/blob/master/resources/python-original.svg)
