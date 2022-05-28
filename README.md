@@ -23,14 +23,14 @@
 
 ---
 
-<a href="https://github.com/mp7786#gh-dark-mode-only">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mp7786&theme=react-dark&hide_border=true&area=true#gh-dark-mode-only" />
+<a href="https://github.com/MatthewPerryDev#gh-dark-mode-only">
+	<img src="https://activity-graph.herokuapp.com/graph?username=MatthewPerryDev&theme=react-dark&hide_border=true&area=true#gh-dark-mode-only" />
 	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mp7786&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewPerryDev&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="my Github Stats"/>
 </a>
 
-<a href="https://github.com/mp7786#gh-light-mode-only">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mp7786&theme=minimal&hide_border=true&area=true#gh-light-mode-only" />
+<a href="https://github.com/MatthewPerryDev#gh-light-mode-only">
+	<img src="https://activity-graph.herokuapp.com/graph?username=MatthewPerryDev&theme=minimal&hide_border=true&area=true#gh-light-mode-only" />
 	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mp7786&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewPerryDev&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only" alt="my Github Stats"/>
 </a>
