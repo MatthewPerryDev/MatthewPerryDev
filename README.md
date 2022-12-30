@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Github Actions, AWS SAM, AWS Lambda, and DynamoDB**
 
-<a href='https://www.linkedin.com/in/matthewperry-dev/'>
+<a href='https://www.linkedin.com/in/matthewperrydev/'>
 	<img src='https://img.shields.io/badge/-Matthew%20Perry-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewperry-dev/'/>
 </a>
 
